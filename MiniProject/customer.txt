@@ -1,0 +1,40 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Customer ID: 1   
+Name: Abdullah
+City: Chennai
+Contact Number: 7451165153
+Email: syed001@gmail.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Customer ID: 2   
+Name: Siva_Prasath
+City: Madurai
+Contact Number: 978421212
+Email: Siva@gmail.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Customer ID: 3   
+Name: Arun_Prakash
+City: Tambaram
+Contact Number: 8441215255
+Email: arun@gmail.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Customer ID: 4   
+Name: Balaji
+City: Nagarcoil
+Contact Number: 8745125412
+Email: m.r.balaji@gmail.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Customer ID: 5   
+Name: Giridhesh
+City: Nagarcoil
+Contact Number: 8485151525
+Email: hope@gmail.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

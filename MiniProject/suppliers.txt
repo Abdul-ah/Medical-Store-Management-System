@@ -1,0 +1,45 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Supplier ID: 1   
+Name: Abdullah
+City: Chennai
+Contact Number: 7545616615
+Email: Syed@gmail.com
+Number: 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Supplier ID: 2   
+Name: Siva
+City: Madurai
+Contact Number: 978421212
+Email: Siva@gmail.com
+Number: 1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Supplier ID: 3   
+Name: Arun_Prakash
+City: Tambaram
+Contact Number: 9854521515
+Email: arun@gmail.com
+Number: 2
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Supplier ID: 4   
+Name: Balaji
+City: Nagarcoil
+Contact Number: 9745114152
+Email: m.r.balaji@gmail.com
+Number: 3
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Supplier ID: 5   
+Name: Ganesh
+City: Tenkasi
+Contact Number: 4845115455
+Email: ram@gmail.com
+Number: 0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
